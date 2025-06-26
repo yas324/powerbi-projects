@@ -122,8 +122,6 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/syed-yaseen-immediate-joiner-4a8258236)
-- [![Naukri](https://img.shields.io/badge/Naukri-Profile-blue)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+- https://syedyaseen324.carrd.co/
 
 
