@@ -109,8 +109,6 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 
 ---
 
----
-
 ## 📌 Tags
 
 `#PowerBI` `#InsuranceAnalytics` `#InteractiveDashboard` `#DAX` `#Bookmarks` `#KPIs` `#ExecutivePerformance` `#RevenueFunnel` `#OpportunityTracking`
