@@ -9,3 +9,11 @@ The dashboards include dynamic filtering, DAX-based KPIs, relationships between 
 - Interactive Visuals and Slicers
 - Time Intelligence and Trend Analysis
 
+## 👤 Author
+
+**Syed Yaseen**  
+*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+
+⭐ **Don't forget to star the repo if you found it helpful!**
