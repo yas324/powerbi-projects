@@ -115,9 +115,6 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 
 
 ---
-
-## 👤 Author
-
 ## 👤 Author
 
 **Syed Yaseen**  
