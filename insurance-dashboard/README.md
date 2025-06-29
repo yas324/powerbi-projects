@@ -118,10 +118,14 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 
 ## 👤 Author
 
+## 👤 Author
+
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
 
 [![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+
+⭐ **Don't forget to star the repo if you found it helpful!**
 
 
 
