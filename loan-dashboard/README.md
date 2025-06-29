@@ -90,8 +90,11 @@ This interactive Power BI dashboard analyzes loan performance, disbursement patt
 ## 👤 Author
 
 **Syed Yaseen**  
-*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*  
-[LinkedIn](linkedin.com/in/syed-yaseen-immediate-joiner-4a8258236)
+*Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
+
+[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+
+⭐ **Don't forget to star the repo if you found it helpful!**
 
 
 
