@@ -1,4 +1,4 @@
-# 🏢 Policy Branch Dashboard (Power BI Project)
+# 🏢 Policy Branch Dashboard-Power BI
 
 This interactive dashboard provides detailed insights into the performance of an insurance policy branch using dynamic slicers, KPI cards, and visual breakdowns of claim, policy, customer, and premium trends.
 
@@ -57,10 +57,10 @@ Analyzes the **Total Premium vs Last Year Premium** and the **Annual Growth %** 
 
 ## 📷 Snapshots
 
-### 🔹 D_Report 1 – Policy Summary
+### 🔹 Report 1 – Policy Summary
 ![Policy Overview](./D_Report%201.JPG)
 
-### 🔹 D_Report 2 – Premium Trend
+### 🔹 Report 2 – Premium Trend
 ![Premium Trend](./D_Report%202.JPG)
 
 ---
