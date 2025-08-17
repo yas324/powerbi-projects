@@ -58,10 +58,10 @@ Analyzes the **Total Premium vs Last Year Premium** and the **Annual Growth %** 
 ## 📷 Snapshots
 
 ### 🔹 Report 1 – Policy Summary
-![Policy Overview](./D_Report%201.JPG)
+![Policy Overview](./R_Report%201.JPG)
 
 ### 🔹 Report 2 – Premium Trend
-![Premium Trend](./D_Report%202.JPG)
+![Premium Trend](./R_Report%202.JPG)
 
 ---
 
@@ -91,6 +91,16 @@ Data used includes:
 - Payment and claim statuses
 
 Note: This is mock/demo data for portfolio purposes.
+
+---
+## 🎯 Click Below to Explore the Dashboard  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="28"/>
+  <a href="https://app.powerbi.com/groups/me/reports/21b788c8-03b5-4d04-8443-4b2e8eed839d/4cbed123af5390da9b01?experience=power-bi" target="_blank">
+    🚀 Launch Live Dashboard
+  </a>
+</p>
 
 ---
 
