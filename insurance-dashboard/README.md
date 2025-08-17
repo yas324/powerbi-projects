@@ -48,13 +48,13 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 ## 📊 Dashboard Snapshots
 
 ### 🧮 Report 1 – Placement & Executive Metrics
-![Report 1](./P_Report%201.JPG)
+![Report 1](./I_Report%201.JPG)
 > Gauge charts for Cross-Sell, New, Renewal KPIs, bar charts for invoices & meetings, and yearly trends.
 
 ---
 
 ### 📈 Report 2 – Opportunity Funnel & Product Analysis
-![Report 2](./P_Report%202.JPG)
+![Report 2](./I_Report%202.JPG)
 
 > Highlights top revenue opportunities, open vs closed breakdown, product distribution, and funnel stage revenue.
 
