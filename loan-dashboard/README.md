@@ -86,6 +86,16 @@ This interactive Power BI dashboard analyzes loan performance, disbursement patt
 - Location Details (State, Branch)
 
 ---
+## 🎯 Click Below to Explore the Dashboard  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="28"/>
+  <a href="https://app.powerbi.com/groups/me/reports/6f414b47-9537-4e39-9711-50aaa2927e7d/b72946cf3754d81ecc21?experience=power-bi" target="_blank">
+    🚀 Launch Live Dashboard
+  </a>
+</p>
+
+---
 
 ## 👤 Author
 
