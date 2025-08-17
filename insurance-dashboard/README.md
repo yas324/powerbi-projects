@@ -113,6 +113,15 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 
 `#PowerBI` `#InsuranceAnalytics` `#InteractiveDashboard` `#DAX` `#Bookmarks` `#KPIs` `#ExecutivePerformance` `#RevenueFunnel` `#OpportunityTracking`
 
+---
+## 🎯 Click Below to Explore the Dashboard  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="28"/>
+  <a href="https://app.powerbi.com/groups/me/reports/cb0ea909-b55c-4642-8347-3bb468d96aeb/cf7a49c4ec70655ce766?experience=power-bi&bookmarkGuid=2caba28cd4d90c405284" target="_blank">
+    🚀 Launch Live Dashboard
+  </a>
+</p>
 
 ---
 ## 👤 Author
