@@ -117,19 +117,22 @@ The dashboard empowers stakeholders to monitor key KPIs, revenue stages, opportu
 ## 🎯 Click Below to Explore the Dashboard  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="28"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="35"/>
   <a href="https://app.powerbi.com/groups/me/reports/cb0ea909-b55c-4642-8347-3bb468d96aeb/cf7a49c4ec70655ce766?experience=power-bi&bookmarkGuid=2caba28cd4d90c405284" target="_blank">
     🚀 Launch Live Dashboard
   </a>
 </p>
 
 ---
-## 👤 Author
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/guest-male.png" alt="Author Icon"/> Author
+
 
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
 
-[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+<a href="https://syedyaseen324.carrd.co/">
+  <img src="https://github.com/yas324/AboutMe_SyedYaseen/blob/main/Badge%201.png" alt="Badge" width="150">
+</a>
 
 ⭐ **Don't forget to star the repo if you found it helpful!**
 
