@@ -37,12 +37,17 @@ The dashboards include dynamic filtering, DAX-based KPIs, relationships between 
   <a href="https://github.com/yas324" target="_blank">My Profile (Home)</a>  
  </p>
 
-## 👤 Author
+
+
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/guest-male.png" alt="Author Icon"/> Author
+
 
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
 
-[(Badge%201.png)](https://syedyaseen.carrd.co/)
+<a href="https://syedyaseen324.carrd.co/">
+  <img src="Badge%201.png" alt="Badge" width="150">
+</a>
 
 
 ⭐ **Don't forget to star the repo if you found it helpful!**
