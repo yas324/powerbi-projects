@@ -89,7 +89,7 @@ This interactive Power BI dashboard analyzes loan performance, disbursement patt
 ## 🎯 Click Below to Explore the Dashboard  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="28"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="35"/>
   <a href="https://app.powerbi.com/groups/me/reports/6f414b47-9537-4e39-9711-50aaa2927e7d/b72946cf3754d81ecc21?experience=power-bi" target="_blank">
     🚀 Launch Live Dashboard
   </a>
@@ -97,12 +97,15 @@ This interactive Power BI dashboard analyzes loan performance, disbursement patt
 
 ---
 
-## 👤 Author
+## <img src="https://img.icons8.com/ios-glyphs/30/000000/guest-male.png" alt="Author Icon"/> Author
+
 
 **Syed Yaseen**  
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
 
-[![🌐 Portfolio - syedyaseen324.carrd.co](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://syedyaseen324.carrd.co/)
+<a href="https://syedyaseen324.carrd.co/">
+  <img src="https://github.com/yas324/AboutMe_SyedYaseen/blob/main/Badge%201.png" alt="Badge" width="150">
+</a>
 
 ⭐ **Don't forget to star the repo if you found it helpful!**
 
