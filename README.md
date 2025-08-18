@@ -46,7 +46,7 @@ The dashboards include dynamic filtering, DAX-based KPIs, relationships between 
 *Aspiring Data Analyst | Power BI | Excel | SQL | Tableau*
 
 <a href="https://syedyaseen324.carrd.co/">
-  <img src="Badge%201.png" alt="Badge" width="150">
+  <img src="https://github.com/yas324/AboutMe_SyedYaseen/blob/main/Badge%201.png" alt="Badge" width="150">
 </a>
 
 
