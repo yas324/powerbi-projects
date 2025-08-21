@@ -17,7 +17,8 @@ This Healthcare Overview Report provides an end-to-end view of the healthcare da
 
 ## 🖼️ Snapshot
 
-![Healthcare Dashboard](./1_OverviewReport.JPG)
+![healthcare-dashboard](./1_Overview%20Report.JPG)
+
 *Snapshot of Healthcare Overview Dashboard created in Power BI.*
 
 ---
@@ -75,7 +76,7 @@ The Doctor Report provides insights into clinical operations, doctor workload, p
 
 ## 🖼️ Snapshot
 
-![Doctor Report](./2_DoctorReport.JPG)
+![healthcare-dashboard](./2_Doctor%20Report.JPG)
 *Snapshot of Doctor Report created in Power BI.*
 
 ---
@@ -128,7 +129,7 @@ The Patient Report is designed to provide a detailed **patient-level view**, sho
 
 ## 🖼️ Snapshot
 
-![Patient Report](./3_PatientReport.JPG)
+![healthcare-dashboard](./3_Patient%20Report.JPG)
 *Snapshot of Patient Report created in Power BI.*
 
 ---
