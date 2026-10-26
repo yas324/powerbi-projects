@@ -223,7 +223,7 @@ The Work-Life Balance Report combines overall workforce KPIs with work-life bala
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="35"/>
-  <a href="YOUR_POWER_BI_PUBLISH_LINK" target="_blank">
+  <a href="https://app.powerbi.com/groups/me/reports/12f0bd6e-e813-4acb-9300-23b308e70922/df77d509c08f7848d1fb?experience=power-bi" target="_blank">
     🚀 Launch Live Dashboard
   </a>
 </p>
