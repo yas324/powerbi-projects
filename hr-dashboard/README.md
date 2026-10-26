@@ -18,7 +18,7 @@ The Work Force Report gives a complete view of the employee base, split by gende
 
 ## 🖼️ Snapshot
 
-![hr-workforce](./images/1.PNG)
+![hr-dashboard](./1.PNG)
 
 *Snapshot of the Work Force Report created in Power BI.*
 
@@ -66,7 +66,7 @@ The Attrition Rate Report shows how many employees have left and where attrition
 
 ## 🖼️ Snapshot
 
-![hr-attrition](./images/2.PNG)
+![hr-dashboard](./2.PNG)
 
 *Snapshot of the Attrition Rate Report created in Power BI.*
 
@@ -107,7 +107,7 @@ The Retention Rate Report shows how many employees stay and which roles and tenu
 
 ## 🖼️ Snapshot
 
-![hr-retention](./images/3.PNG)
+![hr-dashboard](./3.PNG)
 
 *Snapshot of the Retention Rate Report created in Power BI.*
 
@@ -148,7 +148,7 @@ The Work-Life Balance Report combines overall workforce KPIs with work-life bala
 
 ## 🖼️ Snapshot
 
-![hr-work-life-balance](./images/4.PNG)
+![hr-dashboard](./4.PNG)
 
 *Snapshot of the Work-Life Balance Report created in Power BI.*
 
